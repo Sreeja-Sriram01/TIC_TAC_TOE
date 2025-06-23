@@ -6,7 +6,7 @@ Features
 
  •Human vs AI gameplay
 
- •AI uses Minimax algorithm with alpha-beta pruning
+ •AI uses Minimax algorithm 
 
  •Simple GUI built using Tkinter
 
