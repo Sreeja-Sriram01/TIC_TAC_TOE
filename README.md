@@ -10,6 +10,4 @@ Features
 
  •Simple GUI built using Tkinter
 
- •Reset and Exit buttons to control the game
-
  •Highlights win, loss, or draw status after each round
